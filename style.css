@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+}
+
+header{
+    width: 100%;
+    background: grey;
+    padding: 10px 0;
+}
+header .menu{
+    display: flex;
+    justify-content: space-around;
+}
+header .menu .logo{
+    color: green;
+    text-decoration: none;
+}
+header .menu ul{
+    display: flex;
+}
+header .menu ul li a{
+    text-decoration: none;
+    margin-right: 10px;
+    color: #fff;
+}
+
